@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-kazino-s-popolneniem-sbp.github.io
+Sitemap: https://luchshie-kazino-s-popolneniem-sbp.github.io/sitemap.xml
